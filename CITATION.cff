@@ -1,0 +1,52 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite the paper below."
+title: "RSI4EO"
+repository-code: "https://github.com/Yokoya-Lab-UTokyo/RSI4EO"
+license: MIT
+authors:
+  - family-names: Zhao
+    given-names: Sijie
+  - family-names: Zhou
+    given-names: Zeqi
+  - family-names: Qi
+    given-names: Heli
+  - family-names: Fu
+    given-names: Xuanchao
+  - family-names: Zheng
+    given-names: Zhuo
+  - family-names: Xia
+    given-names: Junshi
+  - family-names: Wang
+    given-names: Junjue
+  - family-names: Xuan
+    given-names: Weihao
+  - family-names: Yokoya
+    given-names: Naoto
+preferred-citation:
+  type: article
+  title: "The Last Remote Sensing Model Built by Humans? Casting Any Earth Observation Task as Recursive Self-Improvement"
+  authors:
+    - family-names: Zhao
+      given-names: Sijie
+    - family-names: Zhou
+      given-names: Zeqi
+    - family-names: Qi
+      given-names: Heli
+    - family-names: Fu
+      given-names: Xuanchao
+    - family-names: Zheng
+      given-names: Zhuo
+    - family-names: Xia
+      given-names: Junshi
+    - family-names: Wang
+      given-names: Junjue
+    - family-names: Xuan
+      given-names: Weihao
+    - family-names: Yokoya
+      given-names: Naoto
+  journal: "arXiv preprint arXiv:2610.18845"
+  year: 2026
+  identifiers:
+    - type: doi
+      value: 10.48550/arXiv.2610.18845
+  url: "https://arxiv.org/abs/2610.18845"

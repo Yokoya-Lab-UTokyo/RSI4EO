@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Data, weights and run outputs (never committed)
+data/
+datasets/
+checkpoints/
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+*.tif
+*.tiff
+jobs/
+outputs/
+wandb/
+
+# Secrets
+.env
+*.key
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
