@@ -17,6 +17,9 @@
 <sup>\*</sup>Equal contribution &nbsp; <sup>†</sup>Corresponding authors
 
 [![arXiv](https://img.shields.io/badge/arXiv-2610.18845-b31b1b.svg)](https://arxiv.org/abs/2610.18845)
+![Status](https://img.shields.io/badge/status-ongoing-orange.svg)
+![Code](https://img.shields.io/badge/code-coming%20soon-lightgrey.svg)
+[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
 </div>
 
@@ -56,15 +59,15 @@ Earth observation (EO) models are still built by hand: for each new task, expert
 
 ## Tasks
 
-Five EO benchmarks that differ in sensor, output and metric. Each yields a full-label task and a few-label task.
+Five EO benchmarks that differ in sensor, output and metric. Each yields a full-label task and a few-label task. Benchmark names link to their original papers.
 
 | Benchmark | Task | Input | Classes | Metric | Train | Verifier | Test | Few-label task |
 |---|---|---|---:|---|---:|---:|---:|---|
-| OpenEarthMap | land-cover mapping | RGB, 0.25–0.5 m | 8 | mIoU | 2,700 | 300 | 500 | 6 tiles, one per continent (0.2%) |
-| BRIGHT | building damage | optical + SAR pairs | 4 | mIoU | 2,918 | 450 | 878 | 14 pairs, one per event (0.5%) |
-| HRSID | ship instances | SAR, 0.5–3 m | 1 | mask AP | 3,090 | 552 | 1,962 | 36 images, one per scene (1.2%) |
-| PASTIS | crop-type mapping | Sentinel-2 time series | 19 | mIoU | 1,455 | 482 | 496 | 20 series, five per tile (1.4%) |
-| Toulouse | surface materials | 310-band pixel spectra | 32 | macro-F1 | 190,969 | 39,991 | 149,272 | 160 pixels, five per class (0.1%) |
+| [OpenEarthMap](https://openaccess.thecvf.com/content/WACV2023/html/Xia_OpenEarthMap_A_Benchmark_Dataset_for_Global_High-Resolution_Land_Cover_Mapping_WACV_2023_paper.html) | land-cover mapping | RGB, 0.25–0.5 m | 8 | mIoU | 2,700 | 300 | 500 | 6 tiles, one per continent (0.2%) |
+| [BRIGHT](https://doi.org/10.5194/essd-17-6217-2025) | building damage | optical + SAR pairs | 4 | mIoU | 2,918 | 450 | 878 | 14 pairs, one per event (0.5%) |
+| [HRSID](https://doi.org/10.1109/ACCESS.2020.3005861) | ship instances | SAR, 0.5–3 m | 1 | mask AP | 3,090 | 552 | 1,962 | 36 images, one per scene (1.2%) |
+| [PASTIS](https://doi.org/10.1109/ICCV48922.2021.00483) | crop-type mapping | Sentinel-2 time series | 19 | mIoU | 1,455 | 482 | 496 | 20 series, five per tile (1.4%) |
+| [Toulouse](https://doi.org/10.1016/j.isprsjprs.2024.05.003) | surface materials | 310-band pixel spectra | 32 | macro-F1 | 190,969 | 39,991 | 149,272 | 160 pixels, five per class (0.1%) |
 
 ## Results
 
