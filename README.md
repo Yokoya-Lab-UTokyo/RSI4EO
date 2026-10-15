@@ -2,15 +2,15 @@
 
 # The Last Remote Sensing Model Built by Humans?<br>Casting *Any* Earth Observation Task as Recursive Self-Improvement
 
-**Sijie Zhao**<sup>1,2\*</sup> &nbsp;
-**Zeqi Zhou**<sup>1,2\*</sup> &nbsp;
-**Heli Qi**<sup>2</sup> &nbsp;
-**Xuanchao Fu**<sup>2</sup> &nbsp;
-**Zhuo Zheng**<sup>3</sup> &nbsp;
-**Junshi Xia**<sup>2</sup> &nbsp;
-**Junjue Wang**<sup>1,2</sup> &nbsp;
-**Weihao Xuan**<sup>1,2†</sup> &nbsp;
-**Naoto Yokoya**<sup>1,2†</sup>
+**[Sijie Zhao](https://scholar.google.com/citations?user=o-GZavgAAAAJ&hl=en)**<sup>1,2\*</sup> &nbsp;
+**[Zeqi Zhou](https://scholar.google.com/citations?user=pqG03s0AAAAJ&hl=en)**<sup>1,2\*</sup> &nbsp;
+**[Heli Qi](https://scholar.google.com/citations?user=CH-rTXsAAAAJ&hl=en)**<sup>2</sup> &nbsp;
+**[Xuanchao Fu](https://scholar.google.com/citations?user=D0IIjfUAAAAJ&hl=en)**<sup>2</sup> &nbsp;
+**[Zhuo Zheng](https://scholar.google.com/citations?user=CREpn_AAAAAJ&hl=en)**<sup>3</sup> &nbsp;
+**[Junshi Xia](https://scholar.google.com/citations?user=n1aKdTkAAAAJ&hl=en)**<sup>2</sup> &nbsp;
+**[Junjue Wang](https://scholar.google.com/citations?user=H58gKSAAAAAJ&hl=en)**<sup>1,2</sup><br>
+**[Weihao Xuan](https://scholar.google.com/citations?user=7e0W-2AAAAJ&hl=en)**<sup>1,2†</sup> &nbsp;
+**[Naoto Yokoya](https://scholar.google.com/citations?user=DJ2KOn8AAAAJ&hl=en)**<sup>1,2†</sup>
 
 <sup>1</sup>The University of Tokyo &nbsp; <sup>2</sup>RIKEN &nbsp; <sup>3</sup>Stanford University
 
