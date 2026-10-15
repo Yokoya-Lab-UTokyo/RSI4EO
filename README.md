@@ -3,7 +3,7 @@
 # The Last Remote Sensing Model Built by Humans?<br>Casting *Any* Earth Observation Task as Recursive Self-Improvement
 
 **[Sijie Zhao](https://scholar.google.com/citations?user=o-GZavgAAAAJ&hl=en)**<sup>1,2\*</sup> &nbsp;
-**[Zeqi Zhou](https://scholar.google.com/citations?user=pqG03s0AAAAJ&hl=en)**<sup>1,2\*</sup> &nbsp;
+**[Zeqi Zhou](https://scholar.google.com/citations?user=_fZaSDkAAAAJ)**<sup>1,2\*</sup> &nbsp;
 **[Heli Qi](https://scholar.google.com/citations?user=CH-rTXsAAAAJ&hl=en)**<sup>2</sup> &nbsp;
 **[Xuanchao Fu](https://scholar.google.com/citations?user=D0IIjfUAAAAJ&hl=en)**<sup>2</sup> &nbsp;
 **[Zhuo Zheng](https://scholar.google.com/citations?user=CREpn_AAAAAJ&hl=en)**<sup>3</sup> &nbsp;
